@@ -18,4 +18,3 @@ void Waveform::setPhase(float phase)
 {
     this->phase = phase;
 }
-

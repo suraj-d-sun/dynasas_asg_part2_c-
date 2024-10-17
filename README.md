@@ -9,7 +9,7 @@ This project is a **Waveform Generator** that supports both **Sine Waves** and *
 - [Usage](#usage)
 - [Example Run](#example-run)
 - [Screenshots](#screenshots)
-- [General Information]#(general-information)
+- [General Inforamtion](#general-information)
 
 ---
 
