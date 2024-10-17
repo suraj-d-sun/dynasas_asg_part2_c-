@@ -15,4 +15,3 @@ public:
     virtual void setAmplitude(float amplitude);
     virtual void setPhase(float phase);
 };
-

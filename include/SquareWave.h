@@ -7,4 +7,3 @@ public:
     SquareWave(float frequency, float amplitude, float phase);
     float generate(float time) const override;
 };
-
