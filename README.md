@@ -9,6 +9,7 @@ This project is a **Waveform Generator** that supports both **Sine Waves** and *
 - [Usage](#usage)
 - [Example Run](#example-run)
 - [Screenshots](#screenshots)
+- [General Information]#(general-information)
 
 ---
 
@@ -113,3 +114,29 @@ This project is a **Waveform Generator** that supports both **Sine Waves** and *
   <img src="https://github.com/user-attachments/assets/24b87f0d-f37d-4c34-89e2-bb16a65b5aea" width="400" height="300"/>
 </p>
 
+## General Information
+
+### **Frequency**
+- Frequency refers to the **number of cycles a waveform completes per second**, measured in **Hertz (Hz)**.  
+- It determines the **pitch** of a sound wave (in audio applications).
+
+### **Amplitude**
+- Amplitude is the **maximum height or strength of the waveform** from its equilibrium position.  
+- It represents the **intensity or energy** of the wave (e.g., loudness in sound).
+
+### **Phase**
+- Phase refers to the **initial angle** of the waveform at the starting time (usually measured in **radians**).  
+- It determines the **horizontal shift** or displacement of the wave from its standard position.
+
+### **Time Period**
+- The time period is the **time taken for one complete cycle of the wave**.  
+- It is the inverse of frequency
+
+### **Sine Wave**
+ - A sine wave is a smooth, continuous waveform representing periodic oscillations.
+ - Sine waves are common in natural phenomena such as sound waves and electrical signals.
+
+### **Square Wave**
+ - A square wave alternates between two levels (high and low) with an abrupt transition.
+ - It is commonly used in digital electronics and clock signals.
+ - Unlike sine waves, square waves are non-smooth and have sharp edges.
